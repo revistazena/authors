@@ -1,0 +1,62 @@
+# Autores da Revista Žena
+
+- [x] Adelma Campelo
+- [x] Adolfo Santos
+- [ ] Ana C Pozza
+- [x] Andre George Medeiros
+- [ ] Barbara Buril
+- [x] Belisa Parente
+- [x] Camila Ribas
+- [ ] Carloscosta
+- [ ] Carlos Henrique Magnata
+- [x] Daniela Galdino
+- [ ] Danielle Claudia Leite
+- [ ] Dani Leao
+- [ ] Dani Oliveira
+- [ ] Eduardo Mel
+- [ ] Equipezena
+- [ ] Eriberto Henrique
+- [ ] Felipe Regis
+- [ ] Fernanda Limao
+- [ ] Fernando Pessoa
+- [ ] Flavio Henrique Leal Lima
+- [ ] Franco Benites
+- [ ] Franze Matos
+- [ ] Gabrielkafure
+- [ ] Gustavo Fontes
+- [ ] Isabel Airam
+- [ ] Jana Lauxen
+- [ ] Juliana  Lins
+- [ ] Julia Schiaffarino
+- [ ] Lady Foppa
+- [ ] Laercio Lima Black
+- [ ] Larissa Alves
+- [ ] Leda Pinheiro
+- [ ] Lis Lemos
+- [ ] Nataly Queiroz
+- [ ] Lorenza Mucida
+- [ ] Luciano Siqueira
+- [ ] Mannuela Costa
+- [ ] Manuella Bezerra
+- [ ] Marcela Ribeiro Alves
+- [ ] Marcelo Mario Mello
+- [ ] Marina Reithler	
+- [ ] Mirthyani Bezerra
+- [ ] Neide Carvalho
+- [ ] Nelson Burd
+- [x] Nina Korovha
+- [ ] Paulo Ernesto Arrais Do Nascimento
+- [ ] Pedro Americo De Farias
+- [ ] Poeta Lara
+- [ ] Rafaella Soares
+- [ ] Raimundo Carreiro
+- [ ] Revista Zena
+- [ ] Rodrigo Freitas
+- [ ] Sabrina Vegas
+- [ ] Sintia Lira
+- [ ] Tales Francino
+- [ ] Uraniano Mota
+- [ ] Veronica Fraga
+- [ ] Vitor Batista
+- [x] Wagner Beethoven
+- [ ] Zeca Viana
