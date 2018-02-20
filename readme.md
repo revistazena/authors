@@ -7,14 +7,14 @@
 - [ ] Barbara Buril
 - [x] Belisa Parente
 - [x] Camila Ribas
-- [ ] Carloscosta
+- [ ] Carlos Ccosta
 - [ ] Carlos Henrique Magnata
 - [x] Daniela Galdino
 - [ ] Danielle Claudia Leite
-- [ ] Dani Leao
+- [X] Dani Leao
 - [ ] Dani Oliveira
 - [ ] Eduardo Mel
-- [ ] Equipezena
+- [ ] Equipe Zena
 - [ ] Eriberto Henrique
 - [ ] Felipe Regis
 - [ ] Fernanda Limao
@@ -25,7 +25,7 @@
 - [ ] Gabrielkafure
 - [ ] Gustavo Fontes
 - [ ] Isabel Airam
-- [ ] Jana Lauxen
+- [x] Jana Lauxen
 - [ ] Juliana  Lins
 - [ ] Julia Schiaffarino
 - [ ] Lady Foppa
@@ -41,7 +41,7 @@
 - [ ] Marcela Ribeiro Alves
 - [ ] Marcelo Mario Mello
 - [ ] Marina Reithler	
-- [ ] Mirthyani Bezerra
+- [x] Mirthyani Bezerra
 - [ ] Neide Carvalho
 - [ ] Nelson Burd
 - [x] Nina Korovha
@@ -59,4 +59,4 @@
 - [ ] Veronica Fraga
 - [ ] Vitor Batista
 - [x] Wagner Beethoven
-- [ ] Zeca Viana
+- [x] Zeca Viana
