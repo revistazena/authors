@@ -4,17 +4,17 @@
 - [x] Adolfo Santos
 - [ ] Ana C Pozza
 - [x] Andre George Medeiros
-- [ ] Barbara Buril
+- [x] Barbara Buril
 - [x] Belisa Parente
 - [x] Camila Ribas
-- [ ] Carlos Ccosta
+- [ ] Carlos Costa
 - [ ] Carlos Henrique Magnata
 - [x] Daniela Galdino
 - [ ] Danielle Claudia Leite
 - [X] Dani Leao
 - [ ] Dani Oliveira
 - [ ] Eduardo Mel
-- [ ] Equipe Zena
+- [x] Equipe Zena
 - [ ] Eriberto Henrique
 - [ ] Felipe Regis
 - [ ] Fernanda Limao
@@ -49,13 +49,13 @@
 - [ ] Pedro Americo De Farias
 - [ ] Poeta Lara
 - [ ] Rafaella Soares
-- [ ] Raimundo Carreiro
-- [ ] Revista Zena
+- [x] Raimundo Carreiro
+- [x] Revista Zena
 - [ ] Rodrigo Freitas
 - [ ] Sabrina Vegas
 - [ ] Sintia Lira
 - [ ] Tales Francino
-- [ ] Uraniano Mota
+- [x] Uraniano Mota
 - [ ] Veronica Fraga
 - [ ] Vitor Batista
 - [x] Wagner Beethoven
