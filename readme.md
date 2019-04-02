@@ -16,7 +16,7 @@
 - [ ] Eduardo Mel
 - [x] Equipe Zena
 - [ ] Eriberto Henrique
-- [ ] Felipe Regis
+- [x] Felipe Regis
 - [ ] Fernanda Limao
 - [ ] Fernando Pessoa
 - [ ] Flavio Henrique Leal Lima
